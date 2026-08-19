@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the client/server services using AIDL”.
-Developed by: Chandru K
-Registeration Number : 212224220017
+Developed by: Manisha M 
+Registeration Number : 212224220061
 */
 ```
 ## aidelCilentapp
